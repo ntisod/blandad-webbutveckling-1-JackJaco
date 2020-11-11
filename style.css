@@ -16,8 +16,24 @@
       text-align: center;
   }
   body{
-    max-width: 13cm;
+      
       background-color: grey;
       font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; font-size: 22px;
   }
 
+  a{
+    color: rgb(255, 0, 140);
+    background-color: green;
+    border: 8px solid black;
+    border-radius: 10px;
+    padding: 2px;
+    margin: 10px;
+    text-decoration: none;
+}
+
+a:hover{
+    background-color: yellow;
+}
+a:active{
+    border-width: 5px;
+}
