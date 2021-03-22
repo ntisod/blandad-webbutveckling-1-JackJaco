@@ -1,3 +1,4 @@
+<<<<<<< HEAD
    img {
     display: block;
   margin-left: auto;
@@ -36,4 +37,44 @@ a:hover{
 }
 a:active{
     border-width: 5px;
+=======
+   img {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  }
+  h2{
+      text-align: center;
+  }
+  h1{
+      text-align: center;
+  }
+  p{
+      text-align: center;
+  }
+  p{
+      text-align: center;
+  }
+  body{
+      
+      background-color: grey;
+      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; font-size: 22px;
+  }
+
+  a{
+    color: rgb(255, 0, 140);
+    background-color: green;
+    border: 8px solid black;
+    border-radius: 10px;
+    padding: 2px;
+    margin: 10px;
+    text-decoration: none;
+}
+
+a:hover{
+    background-color: yellow;
+}
+a:active{
+    border-width: 5px;
+>>>>>>> e1e5aaa82af1b71ad691e698edd397c20fd9024e
 }

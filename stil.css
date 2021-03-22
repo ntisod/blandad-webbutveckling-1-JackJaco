@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 a{
     color:blue;
     background-color: green;
@@ -16,4 +17,24 @@ a:active{
 }
 a:visited{
     background-color: red;
+=======
+a{
+    color:blue;
+    background-color: green;
+    border: 8px solid black;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px;
+    text-decoration: none;
+}
+
+a:hover{
+    background-color: yellow;
+}
+a:active{
+    border-width: 5px;
+}
+a:visited{
+    background-color: red;
+>>>>>>> e1e5aaa82af1b71ad691e698edd397c20fd9024e
 }
